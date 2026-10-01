@@ -1,7 +1,7 @@
 # Renewable Energy Market Research Assistant
 
 An AI research assistant that answers market questions about the renewable energy industry (solar, wind, hydro, storage) from public sources, with a citation for every claim. It also extracts 1,000+ structured market data points into PostgreSQL and visualizes them in an interactive Tableau dashboard.
-
+[Try the research assistant](https://market-research-assistant-7gfxtezzdz6oqwcfyhhtvi.streamlit.app/)
  Live dashboard:[Renewable Energy Market Overview on Tableau Public](https://public.tableau.com/app/profile/pranavesh.kotike/viz/RenewableEnergyMarketOverview/Dashboard1?publish=yes)
 
 [Dashboard](docs/screenshots/dashboard.png)

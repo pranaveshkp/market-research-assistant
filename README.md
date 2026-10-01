@@ -92,7 +92,7 @@ Keep it to about 5–10 PDFs at first. Large reports can be hundreds of pages.
    EMBEDDING_PROVIDER = "huggingface"
    ```
    The app only needs Pinecone and OpenAI; PostgreSQL is only for the dashboard.
-4. Put the live link at the top of this README and on your resume.
+
 
 ---
 

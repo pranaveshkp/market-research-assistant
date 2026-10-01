@@ -1,0 +1,20 @@
+# Test questions for evaluation. "expect_keywords" are words a good answer
+# should contain; "answerable: false" questions check the assistant refuses
+# instead of making things up.
+questions:
+  - question: What is the global installed solar PV capacity?
+    expect_keywords: [GW, solar]
+  - question: Which country has the largest installed wind power capacity?
+    expect_keywords: [China]
+  - question: What share of global electricity comes from renewable sources?
+    expect_keywords: ["%"]
+  - question: What is offshore wind power and where is it most developed?
+    expect_keywords: [offshore]
+  - question: What are the main technologies used for grid energy storage?
+    expect_keywords: [storage]
+  - question: How much hydroelectricity is generated globally?
+    expect_keywords: [hydro]
+  - question: Compare the growth of solar and wind power over the last decade.
+    expect_keywords: [solar, wind]
+  - question: What was Tesla's exact revenue from solar roof sales in Q3 2025?
+    answerable: false

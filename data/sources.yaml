@@ -1,0 +1,14 @@
+# Web pages to ingest. Add or remove URLs freely.
+# For stronger, more "industry report" style data, also download PDFs
+# (see README > "Adding industry reports") into data/raw/pdfs/.
+urls:
+  - https://en.wikipedia.org/wiki/Renewable_energy
+  - https://en.wikipedia.org/wiki/Solar_power
+  - https://en.wikipedia.org/wiki/Growth_of_photovoltaics
+  - https://en.wikipedia.org/wiki/Wind_power
+  - https://en.wikipedia.org/wiki/Wind_power_by_country
+  - https://en.wikipedia.org/wiki/Hydroelectricity
+  - https://en.wikipedia.org/wiki/Renewable_energy_commercialization
+  - https://en.wikipedia.org/wiki/Solar_power_by_country
+  - https://en.wikipedia.org/wiki/Offshore_wind_power
+  - https://en.wikipedia.org/wiki/Grid_energy_storage
